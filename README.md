@@ -84,6 +84,14 @@ Mechanical Engineering
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/>
 </a>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
+</a>
+
+<a href="https://www.atlassian.com/software/confluence" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="45"/>
+</a>
 </p>
 
 ---
